@@ -219,6 +219,10 @@ Formato libre:
 
 ---
 
+*fuentes: https://righteous-baron-17e.notion.site/Actividad-Fundamentos-de-Redes-32c4db47a25580479f48fe5f3dff71ef*
+
+---
+
 ## 💡 Cierre (tu discurso final)
 
 > “Un developer que entiende redes no solo programa…
